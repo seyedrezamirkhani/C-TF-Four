@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# project data
+data/
+
+# Mac temp files
+.DS_Store
+.DS_Store
